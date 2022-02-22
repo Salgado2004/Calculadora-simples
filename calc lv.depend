@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1560899327 source:c:\users\leonardosalgado\documents\projetos\calc lv\main.c
+	<stdio.h>
+	<math.h>
+	<conio.h>
+
